@@ -16,7 +16,7 @@ class script(object):
 
     SOURCE_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟</b>
     
-<b>• ꜰᴜʟʟ ɴᴀᴍᴇ : sᴅ ᴏғғɪᴄɪᴀʟ </b>
+<b>• ꜰᴜʟʟ ɴᴀᴍᴇ : Aswin Manoj </b>
 <b>• ᴜꜱᴇʀɴᴀᴍᴇ : @Aswin002211 </b>
 <b>• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/Aswin002211>Aswin Manoj</b></a>"""
 
