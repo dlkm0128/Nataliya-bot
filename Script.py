@@ -4,7 +4,7 @@ class script(object):
     ABOUT_TXT = """<b>╔════❰ ʙᴏᴛ ᴅᴇᴛᴀɪʟs ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼👑 ᴍʏ ɴᴀᴍᴇ : {}
-║┣⪼☎️ ᴄʀᴇᴀᴛᴏʀ : <a href=tg://settings>ᴛʜɪs ᴘᴇʀsᴏɴ</a>
+║┣⪼☎️ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/Aswin002211>Aswin Manoj</a>
 ║┣⪼💡 ᴅᴇᴠᴏʟᴏᴘᴇʀ : <a href=https://t.me/SD_TG_OFFLINE>sᴅ_ᴏғғʟɪɴᴇ🇮🇳</a>
 ║┣⪼📢 ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
 ║┣⪼✏️ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 3
@@ -17,8 +17,8 @@ class script(object):
     SOURCE_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟</b>
     
 <b>• ꜰᴜʟʟ ɴᴀᴍᴇ : sᴅ ᴏғғɪᴄɪᴀʟ </b>
-<b>• ᴜꜱᴇʀɴᴀᴍᴇ : @SD_TG_OFFLINE </b>
-<b>• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/SD_TG_OFFLINE>ᴄʟɪᴄᴋ ʜᴇʀᴇ</b></a>"""
+<b>• ᴜꜱᴇʀɴᴀᴍᴇ : @Aswin002211 </b>
+<b>• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/Aswin002211>Aswin Manoj</b></a>"""
 
 
     FILE_TXT = """ʜᴇʟᴘ : <b>ғɪʟᴇ sᴛᴏʀᴇ ᴍᴏᴅᴜʟᴇ.../</b>
