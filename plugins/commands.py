@@ -22,8 +22,8 @@ BATCH_FILES = {}
 async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[           
-            InlineKeyboardButton('✇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/CinemaShopLinkz'),
-            InlineKeyboardButton('✇ ɢʀᴏᴜᴘ', url='https://t.me/+vP8QdSOL8BpjM2E1')
+            InlineKeyboardButton('✇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/CK_Updates'),
+            InlineKeyboardButton('✇ ɢʀᴏᴜᴘ', url='https://t.me/+5d7UuQjrRrE0NGM1')
             ],[
             InlineKeyboardButton('〄 ʜᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help")
             ]]
@@ -241,8 +241,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                  [
-                  InlineKeyboardButton('💥 ɢʀᴏᴜᴘ', url="https://t.me/+vP8QdSOL8BpjM2E1"),
-                  InlineKeyboardButton('💌 ᴄʜᴀɴɴᴇʟ', url="https://t.me/CinemaShopLinkz")
+                  InlineKeyboardButton('💥 ɢʀᴏᴜᴘ', url="https://t.me/+5d7UuQjrRrE0NGM1"),
+                  InlineKeyboardButton('💌 ᴄʜᴀɴɴᴇʟ', url="https://t.me/CK_Updates")
                ],[
                   InlineKeyboardButton(text=f'🌿 Fɪʟᴇ sɪᴢᴇ 【 {size} 】🌿', callback_data='gxneo')
                  ]
